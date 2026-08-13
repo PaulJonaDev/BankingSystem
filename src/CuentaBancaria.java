@@ -1,3 +1,4 @@
+
 public class CuentaBancaria {
     private String numeroCuenta;
     private String titular;
@@ -23,7 +24,7 @@ public class CuentaBancaria {
         return saldo;
     }
 
-    // Setter protegido: permite que solo las clases hijas modifiquen el saldo directo
+    // Setter protegido: permito que solo las clases hijas cambien el saldo directo
     protected void setSaldo(double nuevoSaldo) {
         this.saldo = nuevoSaldo;
     }
