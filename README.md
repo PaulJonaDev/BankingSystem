@@ -1,4 +1,4 @@
-# 🏦 Taller Sistema Bancario - Java OOP
+# 🏦  Sistema Bancario - Java OOP
 
 Sistema de gestión de cuentas bancarias desarrollado en Java aplicando los principios fundamentales de la **Programación Orientada a Objetos (POO)**: Encapsulamiento, Herencia, Polimorfismo, Sobreescritura y Sobrecarga de métodos[cite: 1].
 
